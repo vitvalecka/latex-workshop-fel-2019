@@ -1,0 +1,699 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.2.10)  20 NOV 2019 00:22
+entering extended mode
+**./poznÃ¡mky.tex
+(poznÃ¡mky.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/09/26 3.24 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/09/26 3.24 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-czech\czech.ldf"
+Language: czech 2008/07/06 v3.1a Czech support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/09/26 3.24 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+\bbl@dirlevel=\count89
+)
+Package babel Info: Making " an active character on input line 172.
+\cs@wordlen=\count90
+Package babel Info: Making - an active character on input line 226.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\cslatex\base\il2enc.def"
+File: il2enc.def 1997/08/20 CSLaTeX
+Now handling font encoding IL2 ...
+... no UTF-8 mapping file for font encoding IL2
+)
+LaTeX Font Info:    Try loading font information for IL2+cmr on input line 105.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\cslatex\base\il2cmr.fd"
+File: il2cmr.fd 1997/02/06 CSLaTeX font definitions
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count91
+\c@Blindtext=\count92
+\c@blind@countparstart=\count93
+\blind@countxx=\count94
+\blindtext@numBlindtext=\count95
+\blind@countyy=\count96
+\c@blindlist=\count97
+\c@blindlistlevel=\count98
+\c@blindlist@level=\count99
+\blind@listitem=\count100
+\c@blind@listcount=\count101
+\c@blind@levelcount=\count102
+\blind@mathformula=\count103
+\blind@Mathformula=\count104
+\c@blind@randomcount=\count105
+\c@blind@randommax=\count106
+\c@blind@pangramcount=\count107
+\c@blind@pangrammax=\count108
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\examplep\examplep.sty"
+Package: examplep 2010/02/03 v0.04 Verbatim and typeset TeX code
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\examplep\verbfwr.sty"
+Package: verbfwr 2003/09/25 v0.02 Verbatim file write
+\verbfwr@writefile=\write3
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count109
+\mult@box=\box26
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count110
+\c@collectmore=\count111
+\doublecol@number=\count112
+\multicoltolerance=\count113
+\multicolpretolerance=\count114
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen109
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count115
+\c@finalcolumnbadness=\count116
+\last@try=\dimen110
+\multicolovershoot=\dimen111
+\multicolundershoot=\dimen112
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count117
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen113
+\lightrulewidth=\dimen114
+\cmidrulewidth=\dimen115
+\belowrulesep=\dimen116
+\belowbottomsep=\dimen117
+\aboverulesep=\dimen118
+\abovetopsep=\dimen119
+\cmidrulesep=\dimen120
+\cmidrulekern=\dimen121
+\defaultaddspace=\dimen122
+\@cmidla=\count118
+\@cmidlb=\count119
+\@aboverulesep=\dimen123
+\@belowrulesep=\dimen124
+\@thisruleclass=\count120
+\@lastruleclass=\count121
+\@thisrulewidth=\dimen125
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen126
+\ar@mcellbox=\box52
+\extrarowheight=\dimen127
+\NC@list=\toks16
+\extratabsurround=\skip45
+\backup@length=\skip46
+\ar@cellbox=\box53
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
+\multirow@colwidth=\skip47
+\multirow@cntb=\count122
+\multirow@dima=\skip48
+\bigstrutjot=\dimen128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen129
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen130
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count123
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count124
+\leftroot@=\count125
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count126
+\DOTSCASE@=\count127
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen131
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count128
+\c@MaxMatrixCols=\count129
+\dotsspace@=\muskip10
+\c@parentequation=\count130
+\dspbrk@lvl=\count131
+\tag@help=\toks18
+\row@=\count132
+\column@=\count133
+\maxfields@=\count134
+\andhelp@=\toks19
+\eqnshift@=\dimen132
+\alignsep@=\dimen133
+\tagshift@=\dimen134
+\tagwidth@=\dimen135
+\totwidth@=\dimen136
+\lineht@=\dimen137
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen138
+\Gin@req@width=\dimen139
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\layout.sty"
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count135
+\cnt@paperwidth=\count136
+\cnt@paperheight=\count137
+\cnt@hoffset=\count138
+\cnt@voffset=\count139
+\cnt@textheight=\count140
+\cnt@textwidth=\count141
+\cnt@topmargin=\count142
+\cnt@oddsidemargin=\count143
+\cnt@evensidemargin=\count144
+\cnt@headheight=\count145
+\cnt@headsep=\count146
+\cnt@marginparsep=\count147
+\cnt@marginparwidth=\count148
+\cnt@marginparpush=\count149
+\cnt@footskip=\count150
+\fheight=\count151
+\ref@top=\count152
+\ref@hoffset=\count153
+\ref@voffset=\count154
+\ref@head=\count155
+\ref@body=\count156
+\ref@foot=\count157
+\ref@margin=\count158
+\ref@marginwidth=\count159
+\ref@marginpar=\count160
+\Interval=\count161
+\ExtraYPos=\count162
+\PositionX=\count163
+\PositionY=\count164
+\ArrowLength=\count165
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\minitoc\minitoc.sty"
+Package: minitoc 2018/07/12 v62 Package minitoc
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\minitoc\mtcmess.sty"
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 62 ***.
+\tf@mtc=\write4
+\mtcindent=\skip52
+\mtcskipamount=\skip53
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0004
+(minitoc)             chapter level macros NOT available.
+Package minitoc Info: I0028
+(minitoc)             section level macros available.
+\mtc@toks=\toks23
+\mtc@strutbox=\box56
+\mtc@hstrutbox=\box57
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout4 = `poznÃ¡mky.mtc0'.
+
+\openout4 = `poznÃ¡mky.mtc'.
+
+ (poznÃ¡mky.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout4 = `poznÃ¡mky.mtc'.
+
+\openout4 = `poznÃ¡mky.mtc0'.
+
+\c@ptc=\count166
+\c@parttocdepth=\count167
+\ptcindent=\skip54
+\c@stc=\count168
+\c@secttocdepth=\count169
+\stcindent=\skip55
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\minitoc\english.mld"
+File: english.mld 2006/01/13
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\minitoc\english.mld"
+File: english.mld 2006/01/13
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\bigfoot\bigfoot.sty"
+Package: bigfoot 2015/08/30 2.1 makes footnotes work
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ncctools\manyfoot.sty"
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ncctools\nccfoots.sty"
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen140
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty"
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\bigfoot\perpage.sty"
+Package: perpage 2014/10/25 2.0 Reset/sort counters per page
+\c@abspage=\count170
+)
+\footnotewidowpenalty=\count171
+\footnoteclubpenalty=\count172
+\finalfootnotewidowpenalty=\count173
+\c@FN@totalid=\count174
+\c@pp@a@FN@totalid=\count175
+\FN@id=\count176
+\FN@master=\marks1
+\FN@slave=\marks2
+\FN@color=\marks3
+\FN@outervsize=\dimen141
+\FN@vsize=\skip56
+\FN@insertions=\box58
+\FN@output=\toks24
+\FN@tempbox=\box59
+\FN@savebox=\insert199
+\FN@topmarkbox=\box60
+\FN@outputflag=\count177
+\FN@myvsize=\dimen142
+\bigfoottolerance=\count178
+) (poznÃ¡mky.aux)
+\openout1 = `poznÃ¡mky.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count179
+\scratchdimen=\dimen143
+\scratchbox=\box61
+\nofMPsegments=\count180
+\nofMParguments=\count181
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen144
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
+\everyMPtoPDFconversion=\toks26
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+\footinsdefault=\insert198
+\FN@cache198=\box62
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/vitvalecka/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+] (poznÃ¡mky.toc
+[3
+
+])
+\tf@toc=\write5
+\openout5 = `poznÃ¡mky.toc'.
+
+ [4]
+Overfull \hbox (1.9995pt too wide) in paragraph at lines 61--62
+[]\IL2/cmr/m/n/10 L[]T[]X (vy-slo-vuje se [la-tech]), je ba-lík ma-ker pro-gram
+u T[]X, který umo¾òuje
+ []
+
+[5
+
+]
+Overfull \hbox (8.3279pt too wide) in paragraph at lines 73--74
+[]\IL2/cmr/m/n/10 obsahuje im-por-try pou-¾í-va-ných ba-líèkù, na-sta-vení do-k
+u-mentu (napø.
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+LaTeX Font Info:    Try loading font information for IL2+cmtt on input line 86.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\cslatex\base\il2cmtt.fd"
+File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
+) [6
+
+] [7] [8
+
+]
+LaTeX Font Info:    Try loading font information for IL2+cmss on input line 164
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\cslatex\base\il2cmss.fd"
+File: il2cmss.fd 1997/02/13 CsLaTeX font definitions
+) [9
+
+] [10]
+One-sided document style.
+[11
+
+] [12]
+Overfull \hbox (7.49838pt too wide) in paragraph at lines 229--229
+[]\IL2/cmtt/m/n/10 \item[:)] vivamus elementum lectus[] 
+ []
+
+[13
+
+] [14
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 356
+.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 356.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textperiodcentered' on input line 356.
+
+[15]
+Overfull \hbox (50.37485pt too wide) in paragraph at lines 362--368
+[][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 375--375
+[]\IL2/cmtt/m/n/10 \begin{tabular}{|c|c|c|c|p{1cm}p{1cm}p{1cm}p{1cm}p{1cm}p{1cm
+}p{1cm}|}[] 
+ []
+
+
+Overfull \hbox (2.85938pt too wide) in paragraph at lines 379--380
+[]\IL2/cmr/m/n/10 V pøí-padì pøí-kazu [][]\IL2/cmtt/m/n/10 multicolumn{7}{c}{te
+xt} []\IL2/cmr/m/n/10 první pa-ra-metr urèuje poèet
+ []
+
+[16
+
+] [17
+
+]
+Overfull \hbox (63.63824pt too wide) in paragraph at lines 449--450
+[]\IL2/cmr/m/n/10 -- $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) []
+(\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) [](\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) [][
+]\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 x\OMS/cmsy/m/n/10 g$ \IL2/cmr/m/n/10 -- [][
+]\IL2/cmtt/m/n/10 \sin(x) \cos(x) \tan(x) \max_{x\in M}\{x\}
+ []
+
+[18]
+Overfull \hbox (14.7772pt too wide) in paragraph at lines 500--501
+\IL2/cmr/m/n/10 to-ti¾ èíslo-vaná a jde se na ni od-ka-zo-vat po-mocí zna-èky [
+][]\IL2/cmtt/m/n/10 \label{rov1} []\IL2/cmr/m/n/10 a [][]\IL2/cmtt/m/n/10 \ref{
+rov1}[]\IL2/cmr/m/n/10 ,
+ []
+
+[19]
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 514--514
+[]\IL2/cmtt/m/n/10 \mathcal{S}=\sqrt{\frac{1}{n}\sum_{i=1}^{r}p_i(x_i-\mathcal{
+X})^2},[] 
+ []
+
+
+Overfull \hbox (5.05594pt too wide) in paragraph at lines 548--549
+\IL2/cmr/m/n/10 Máme tedy re-álná èísla -- $\U/msb/m/n/10 R$ \IL2/cmr/m/n/10 ([
+][]\IL2/cmtt/m/n/10 $\mathbb{R}$[]\IL2/cmr/m/n/10 ), ra-ci-o-nální èísla -- $\U
+/msb/m/n/10 Q$ \IL2/cmr/m/n/10 ([][]\IL2/cmtt/m/n/10 $\mathbb{Q}$[]\IL2/cmr/m/n
+/10 ),
+ []
+
+[20]
+<logo-fjfi.png, id=94, 734.5041pt x 671.1474pt>
+File: logo-fjfi.png Graphic file (type png)
+<use logo-fjfi.png>
+Package pdftex.def Info: logo-fjfi.png  used on input line 558.
+(pdftex.def)             Requested size: 73.45471pt x 67.11867pt.
+ [21 <./logo-fjfi.png>] [22] [23
+
+] [24] (poznÃ¡mky.bbl) [25] [26
+
+]
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the poznÃ¡mky.maf file.
+\openout4 = `poznÃ¡mky.maf'.
+
+Package minitoc(hints) Info: I0019
+(minitoc(hints))             No hints have been written 
+(minitoc(hints))             in the poznÃ¡mky.log file..
+ [27
+
+]
+(poznÃ¡mky.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6244 strings out of 492970
+ 86943 string characters out of 3135840
+ 200393 words of memory out of 3000000
+ 9721 multiletter control sequences out of 15000+200000
+ 23404 words of font info for 71 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,14n,25p,769b,474s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\csfonts
+\dpi600\csr6.pk> <C:\Users\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+public\csfonts\dpi600\cstt8.pk> <C:\Users\vitvalecka\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\public\csfonts\dpi600\csr5.pk> <C:\Users\vitvalecka\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\ljfour\public\csfonts\dpi600\csr8.pk> <C:\Users\vitvaleck
+a\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\csfonts\dpi600\csss10.pk> <C:
+\Users\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\csfonts\dpi60
+0\cscsc10.pk> <C:\Users\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\pub
+lic\csfonts\dpi600\cstt10.pk> <C:\Users\vitvalecka\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\public\csfonts\dpi600\csbx7.pk> <C:\Users\vitvalecka\AppData\Local
+\MiKTeX\2.9\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk> <C:\Users\vitvalec
+ka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\csfonts\dpi600\csr7.pk> <C:\
+Users\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\csfonts\dpi600
+\csr10.pk> <C:\Users\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public
+\csfonts\dpi720\csbx12.pk> <C:\Users\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\public\csfonts\dpi600\csti7.pk> <C:\Users\vitvalecka\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\public\csfonts\dpi600\csti10.pk> <C:\Users\vitvalecka\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\csfonts\dpi600\csr12.pk> <C:\Us
+ers\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\csfonts\dpi600\c
+sr17.pk> <C:\Users\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\c
+sfonts\dpi600\csbx12.pk> <C:\Users\vitvalecka\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\public\csfonts\dpi864\csbx12.pk><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
+7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/latxfont/lcircle1.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/latxfont/line10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/symbols/msbm10.pfb>
+Output written on poznÃ¡mky.pdf (27 pages, 523163 bytes).
+PDF statistics:
+ 811 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
