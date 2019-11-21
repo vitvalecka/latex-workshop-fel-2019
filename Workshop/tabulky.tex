@@ -1,0 +1,28 @@
+\documentclass{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[IL2]{fontenc}
+\usepackage[czech]{babel}
+
+\usepackage{dcolumn}
+
+\begin{document}
+
+\begin{tabular}{||r@{...}l|p{3cm}r@{,}l}
+	Id & Příjmení & Jméno & & \\
+	\hline 1 & Jančařík & Václav & 6 & 01 \\
+	2 & Jaroš & Jan & 4 & 5 \\
+	3 & Karlová & Beata & 33 & 333
+\end{tabular}
+
+\vspace{3em}
+
+\begin{tabular}{||r@{...}l|p{3cm}D{,}{.}{3.3}|}
+	Id & Příjmení & Jméno & \\
+	\hline 1 & Jančařík & Václav & 6,01 \\
+	2 & Jaroš & Jan & 4,5 \\
+	3 & Karlová & Beata & 33,333
+\end{tabular}
+
+
+\end{document}

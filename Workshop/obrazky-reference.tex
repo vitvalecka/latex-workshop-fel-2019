@@ -1,0 +1,25 @@
+\documentclass{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[IL2]{fontenc}
+\usepackage[english]{babel}
+
+\usepackage{graphicx}
+
+\begin{document}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viz obrázek \ref{fig:logo} na stránce \pageref{fig:logo} In libero ipsum, auctor non nisl eu, facilisis egestas odio. Morbi accumsan tempus dictum. Pellentesque et tincidunt turpis, at pellentesque nisi. Maecenas vitae mauris quis velit sodales tempor\footnote{Lipsum...}.
+
+\begin{figure}[!htp]
+	\begin{center}
+		\includegraphics[scale=0.1]{logo-fjfi.png}
+	\end{center}
+	\caption{Logo FJFI}
+	\label{fig:logo}
+\end{figure}
+
+\clearpage
+
+\listoffigures
+
+\end{document}
